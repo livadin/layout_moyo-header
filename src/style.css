@@ -5,8 +5,9 @@
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto, sans-serif;
 }
+
 :root {
   --blue-color: #00ACDC;
 
