@@ -30,8 +30,8 @@ body {
 }
 
 .logo {
-  width: 40px;
-  height: 40px;
+  width: 48px;
+  height: 48px;
 }
 
 .nav-links {
@@ -55,7 +55,7 @@ body {
   font-weight: 500;
   line-height: 16px;
   text-transform: uppercase;
-  height: 56px;
+  height: 70px;
   display: flex;
   align-items: center;
   justify-content: center;
